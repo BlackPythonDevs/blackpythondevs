@@ -14,4 +14,6 @@ The Black Python Devs Events Coordinator for various activities of the community
 * Share event content on Discord and other community platforms, encouraging engagement and feedback.
 * Coordinate the editing, packaging, and uploading of event content to YouTube.
 
+
 _Responsibilities subject to change as per needs of the community_
+
