@@ -27,7 +27,11 @@ Events and content published to the website should be easy to navigate to and fi
 #### Internationalization
 
 The website should be available those choosing to read it in their native language.
+The role also is responsible for managing the accounts on X, Mastodon, YouTube, and LinkedIn.
 
+This includes managing and moderating. Assigning credentials to those that need it.
+
+Finally, the role includes integrating services with our online communities. This mainly entails managing bots/plugins for our Discord server.
 ### Responsibilities include but are not limited to
 
 - Enforce the style guides of code contributed to
