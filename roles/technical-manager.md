@@ -2,7 +2,7 @@
 
 ## Current Role Leader: Oleksis Fraga
 
-The Black Python Devs Technical Manager is the primary maintainer of the Black Python Devs Website.
+The Black Python Devs Technical Manager is responsible for the social online presence of the Black Python Devs.
 
 ## Roles and Responsibilities
 
