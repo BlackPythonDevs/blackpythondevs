@@ -3,7 +3,7 @@
 
 ## Team Members:
 - Spanish: [Oleksis Fraga](https://github.com/oleksisfraga)
-- Swahili: [Jonathan Muti](https://github.com/kazz54)
+- Swahili: [Jonathan Mrutu](https://github.com/kazz54)
 - Hausa: Not Appointed
 - Xhosa: Not Appointed
 - French: Not Appointed
