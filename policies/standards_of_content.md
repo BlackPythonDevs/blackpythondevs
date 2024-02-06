@@ -1,4 +1,4 @@
-# Standads of Content
+# Standards of Content
 
 ## Making changes to this document
 
