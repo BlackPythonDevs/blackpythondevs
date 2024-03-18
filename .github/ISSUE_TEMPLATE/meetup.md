@@ -2,7 +2,7 @@
 name: Create a new meetup event
 description: 'Creates a new task for the team to work on'
 assignees: '@kjaymiller,@VeldaKiara'
-title: [MEETUP] MEETUP NAME
+title: '[MEETUP] MEETUP NAME'
 labels: meetup
 ---
 
