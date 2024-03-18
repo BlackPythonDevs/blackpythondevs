@@ -1,6 +1,6 @@
 ---
 name: Create a new meetup event
-assignees: @kjaymiller,@VeldaKiara
+assignees: '@kjaymiller,@VeldaKiara'
 title: [MEETUP] MEETUP NAME
 labels: meetup
 description: 'Creates a new task for the team to work on'
