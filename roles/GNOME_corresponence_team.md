@@ -8,6 +8,6 @@ The team shall be composed of Executor, Vice-Executor and a representative from 
 
 ## Current Team Members
 
-Jay Miller - Executor
-Velda Kiara - Vice Executor
-Kojo Idrissa - Community Leadership Council Representative
+- Jay Miller - Executor
+- Velda Kiara - Vice Executor
+- Kojo Idrissa - Community Leadership Council Representative
