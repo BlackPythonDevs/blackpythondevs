@@ -25,7 +25,7 @@ Lastly the process for getting visas to attend can be confusing and daunting and
 - Work with travel professionals to coordinate flights, hotels, and transportation while travelling
 - Work with conferences to make their opportunity grants accessible to as many as possible addressing the concerns of our community leaders.
 
-## Build Black Excellence and Equality
+## Build Black Excellence Equally
 
 Opportunities for Black professionals skew towards those with the ability to pay their way into a comfortable life. We can't change how the game is played but we can play a different game.
 
