@@ -2,7 +2,7 @@
 
 Submitting a code of conduct report is not just an act of courage, but a powerful step towards fostering a culture of respect, safety, and inclusivity. Your voice matters, and your willingness to speak up ensures that everyone feels valued and heard. By reporting any instances of misconduct, you're not only advocating for yourself but also for the well-being of your community. Together, we can create environments where everyone feels empowered to thrive. So, don't hesitate—your actions today pave the way for a brighter, more equitable tomorrow.
 
-The Code of Conduct can be found at: <https://github.com/BlackPythonDevs/.github?tab=coc-ov-file#readme>](https://github.com/BlackPythonDevs/.github?tab=coc-ov-file#readme)  
+The Code of Conduct can be found at: <https://github.com/BlackPythonDevs/.github?tab=coc-ov-file#readme>
 
 ## Current Code of Conduct Working Group:
 
