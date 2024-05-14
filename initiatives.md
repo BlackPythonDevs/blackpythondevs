@@ -1,5 +1,7 @@
 # Black Python Devs Initiatives
 
+Initiatives are the driving efforts of our community.
+
 ## Build Local Community
 
 We believe it is incredibly important that local community is supported as much as possible.
