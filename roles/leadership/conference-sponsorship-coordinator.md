@@ -1,6 +1,7 @@
 # The Black Python Devs Conference Sponsorship Coordinator
 
-## Current Role Leader: Nuel
+## Current Role Leaders: Nuel, Steve Yonkeu
+## Roles Open: North American Coordinator 
 The Conference Sponsorship Coordinator plays a vital role in securing sponsorships for Black Python Devs' conferences. 
 
 ## Roles and Responsibilities
