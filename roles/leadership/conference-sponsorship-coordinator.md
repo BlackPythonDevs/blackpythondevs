@@ -29,8 +29,6 @@ The Conference Sponsorship Coordinator plays a vital role in securing sponsorshi
 * Maintain accurate records of sponsorship agreements, payments, and sponsor contact information.
 * Prepare regular reports on sponsorship revenue, trends, and opportunities for improvement.
 
-</ol>
-
 ## Requirements to fulfill role
 This position requires strong communication skills, attention to detail, and the ability to build and maintain relationships with potential sponsors.
 
@@ -39,4 +37,4 @@ The Conference Sponsorship Coordinator will be granted access to the following r
 
 * Sponsorship@blackpythondevs.com email address.
 * Shared documentation folder containing sponsorship agreements, templates, and contact information.
-* Collaboration tools used by the Black Python Devs documentation team.</li>
+* Collaboration tools used by the Black Python Devs documentation team.
