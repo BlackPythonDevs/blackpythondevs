@@ -13,7 +13,7 @@ The Conference Sponsorship Coordinator is a regional liaison responsible for man
 
 ## Requirements to Fulfill the Role
 
-This position requires strong communication skills, attention to detail, and the ability to build and maintain relationships with potential sponsors.
+This position requires strong communication skills, attention to detail, and the ability to build and maintain relationships with sponsors.
 
 ## Responsibilities
 
