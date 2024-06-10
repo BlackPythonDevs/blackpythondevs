@@ -4,7 +4,7 @@ The Events Coordinator is responsible for managing various community activities 
 
 ## Current Role Leader
 
-* Velda Kiara
+* [Velda Kiara](https://github.com/VeldaKiara)
 
 ## Responsibilities
 
