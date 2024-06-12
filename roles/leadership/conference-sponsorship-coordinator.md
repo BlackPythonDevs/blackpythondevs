@@ -5,7 +5,7 @@ The Conference Sponsorship Coordinator is a regional liaison responsible for man
 ## Current Role Leaders
 
 * Nuel 
-* [Steve J. Yonkeu](https://github.com/yokwejuste)
+* [Steve Yonkeu](https://github.com/yokwejuste)
 
 ## Roles Open
 
