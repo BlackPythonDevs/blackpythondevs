@@ -1,48 +1,42 @@
 # Paying for Things and Seeking Reimbursement
 
-When spending money on behalf of Black Python Devs it's best to make sure that things are approved in writing and documented.
+When spending money on behalf of Black Python Devs, ensure that all expenses are approved in writing and properly documented.
 
-A quote should be sent to treasury@blackpythondevs.com, leadership@blackpythondevs.com, or the organizing teams email IF an authorized approver is a part of the organizing team.
+Also, you should send a quote for the expenses to the email address _treasury@blackpythondevs.com_, _leadership@blackpythondevs.com_, or the organizing team's email address.
 
 ## Authorized Purchase Approvers
 
-The following roles have the ability to approve purchases
+The following roles have the authority to approve purchases:
 
-- Executor (Chairman)
-- Vice-Executor (Vice-Chair)
-- Treasurer
+* Executor (Chairman)
+* Vice-Executor (Vice-Chair)
+* Treasurer
 
 ## Authorized Request Types
 
-All purchases should be for official business with Black Python Devs.
+All purchases must be for the official business of Black Python Devs. Approved purchase examples include:
 
-Approved Examples:
-- Approved Event Sponsorships
-- Paying for an software subscription for Black Python Devs
-- Paying for a meal for everyone in a Black Python Event (requires pre-approval) **Meetup Pizza, Thai, Ice Cream**
-- Swag, Booth Materials
+* approved event sponsorships
+* paying for a software subscription for Black Python Devs
+* paying for a meal for everyone in a Black Python Event (requires pre-approval) **Meetup pizza, Thai, Ice cream**
+* swag, booth Materials
 
-## How Payment is handled
+## How Payment is Handled
 
 ### Black Python Devs Pays Directly
 
-This is the PREFERRED Method.
-You can request an invoice to be paid by Black Python Devs.
+This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer or Wise transfer.
 
-This is great when payment can be handled via wire transfer or wise transfer.
+For all wire transfers, the following information is required:
 
-Note for all wire transfers, the following information is required:
+* account name
+* vendor physical address
+* address of their bank
+* SWIFT code of their bank (if applicable)
+* currency of their account
 
- * name on account 
- * vendor physical address
- * address of their bank
- * SWIFT code of their bank (if applicable)
- * currency of their account
+### Member Pays and is Reimbursed
 
-### Member pays and is reimbursed
+Ensure you get approval before paying out of pocket.
 
-YOU SHOULD ALWAYS GET APPROVAL BEFORE PAYING OUT OF POCKET!
-
-If you've been approved for an out of pocket purchase, you will need to request a copy of the reimbursement spreadsheet from treasury@blackpythondevs.com.
-
-Fill out the form and send it to treasury@blackpythondevs.com
+If you've been approved for an out-of-pocket purchase, you will need to request a copy of the reimbursement form from _treasury@blackpythondevs.com_. Fill out the form and send it to _treasury@blackpythondevs.com_.
