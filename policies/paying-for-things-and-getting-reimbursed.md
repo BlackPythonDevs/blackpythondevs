@@ -25,7 +25,7 @@ All purchases must be for the official business of Black Python Devs. Approved p
 
 ### Black Python Devs Pays Directly
 
-This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer or Wise transfer.
+This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer.
 
 All wire transfers requires the following information:
 
