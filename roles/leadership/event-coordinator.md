@@ -1,19 +1,22 @@
-# The Black Python Devs Website Manager
+# Events Coordinator
 
-## Current Role Leader: Velda Kiara
-The Black Python Devs Events Coordinator for various activities of the community 
+The Events Coordinator is responsible for managing various community activities for Black Python Devs.
 
-## Responsibilities 
-* Ensure all event logistics, such as scheduling, communication, and technical requirements, are well-organized.
+## Current Role Leader
+
+_This role is currently open._
+
+## Responsibilities
+
+* Ensure all event logistics, including scheduling, communication, and technical requirements, are well-organized.
+* Handle any technical issues that arise during events to ensure a smooth experience for attendees.
 * Act as a host, co-host, or moderator during events, maintaining a welcoming and engaging atmosphere for participants.
-* Handle technical issues and troubleshoot problems during events to ensure a smooth experience for attendees.
 * Encourage active participation, discussions, and Q&A sessions during events.
-* Update partnership links and promotional materials as necessary.
-* Collaborate with partners on event planning and promotion.
 * Communicate event details and updates to the community
 * Share event content on Discord and other community platforms, encouraging engagement and feedback.
+* Collaborate with partners on event planning and promotion.
+* Update partnership links and promotional materials as necessary.
 * Coordinate the editing, packaging, and uploading of event content to YouTube.
 
 
 _Responsibilities subject to change as per needs of the community_
-
