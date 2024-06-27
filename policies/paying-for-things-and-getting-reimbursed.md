@@ -14,7 +14,7 @@ The following roles have the authority to approve purchases:
 
 ## Authorized Request Types
 
-All purchases must be for the official business of Black Python Devs. Approved purchase examples include:
+All purchases must be for the official business of Black Python Devs. Approved purchase examples include the following:
 
 * approved event sponsorships
 * paying for a software subscription for Black Python Devs
@@ -25,9 +25,9 @@ All purchases must be for the official business of Black Python Devs. Approved p
 
 ### Black Python Devs Pays Directly
 
-This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer or Wise transfer.
+This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer.
 
-For all wire transfers, the following information is required:
+All wire transfers requires the following information:
 
 * account name
 * vendor physical address
