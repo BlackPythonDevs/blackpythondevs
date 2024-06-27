@@ -27,7 +27,7 @@ All purchases must be for the official business of Black Python Devs. Approved p
 
 This is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer.
 
-All wire transfers requires the following information:
+All wire transfers require the following information:
 
 * account name
 * vendor physical address
@@ -39,4 +39,4 @@ All wire transfers requires the following information:
 
 Ensure you get approval before paying out of pocket.
 
-If you've been approved for an out-of-pocket purchase, you will need to request a copy of the reimbursement form from _treasury@blackpythondevs.com_. Fill out the form and send it to _treasury@blackpythondevs.com_.
+If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from _treasury@blackpythondevs.com_. Fill out the form and send it to _treasury@blackpythondevs.com_.
