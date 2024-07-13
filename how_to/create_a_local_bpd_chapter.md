@@ -1,1 +1,1 @@
-# How To Create A Local BPD Chapter
+# How to Create a Local BPD Chapter
