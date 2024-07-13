@@ -1,1 +1,1 @@
-# How To Join The Leadership Council
+# How to Join the Leadership Council
