@@ -18,7 +18,7 @@ All purchases must be for the official business of Black Python Devs. Approved p
 
 * approved event sponsorships
 * paying for a software subscription for Black Python Devs
-* paying for a meal for everyone in a Black Python Event (requires pre-approval) **Meetup pizza, Thai, Ice cream**
+* paying for a meal for everyone in a Black Python Devs Event (requires pre-approval) **Meetup pizza, Thai, Ice cream**
 * swag, booth Materials
 
 ## How Payment is Handled
