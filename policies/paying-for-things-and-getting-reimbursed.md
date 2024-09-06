@@ -34,6 +34,7 @@ All wire transfers require the following information:
 * address of their bank
 * SWIFT code of their bank (if applicable)
 * currency of their account
+* paypal payment, voucher
 
 ### Member Pays and is Reimbursed
 
