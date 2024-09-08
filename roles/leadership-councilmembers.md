@@ -1,4 +1,4 @@
-# Leadership Councilmembers
+# Leadership Council
 
 The leadership council is made of recognized Black community leaders who are also members of Black Python Devs.
 
