@@ -21,7 +21,7 @@ Many projects label issues that are suitable for beginners. Search for labels li
 
 #### **Read the Documentation**
 
-- **README.md**: The primary document that usually provides an overview, installation instructions, and usage guidelines.  Read the read me first: https://github.com/CoderBlee/blackpythondevs
+- **README.md**: The primary document that usually provides an overview, installation instructions, and usage guidelines.  Read the read me first: https://github.com/blackpythondevs/blackpythondevs
 - **CONTRIBUTING.md**: Guidelines for contributing to the project. This can include coding standards, testing protocols, and how to submit changes.
 - **CODE_OF_CONDUCT.md**: Code of conduct outlines the expectations for behavior in the community.
 
