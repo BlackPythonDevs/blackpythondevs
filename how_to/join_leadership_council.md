@@ -5,5 +5,5 @@ To join the [Leadership Council](https://github.com/BlackPythonDevs/blackpythond
 * You must be a recognized leader in any local or online Python community.
 * You must be a member of Black Python Devs.
 * You must be nominated by at least one leader of the Black Python Devs community.
-* You must be voted for by a simple majority of the existing [Leadership Council](https://github.com/BlackPythonDevs/blackpythondevs/blob/main/roles/leadership-councilmembers.md) members.
+* Your joining must not be blocked by an existing [Leadership Council](https://github.com/BlackPythonDevs/blackpythondevs/blob/main/roles/leadership-councilmembers.md) member.
 
