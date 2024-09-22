@@ -1,5 +1,6 @@
 # How to Contribute to the BPD Community
-Contributing to open source can be a rewarding experience, and getting started is easier than you might think. Here’s a beginner-friendly guide to help you navigate your way into the open source world:
+Contributing to open source can be a rewarding experience, and getting started is easier than you might think. Here’s a beginner-friendly guide to help you navigate your way into the open source world for Black Python Dev repo:
+The repo link: https://github.com/BlackPythonDevs/blackpythondevs
 
 ### 1. **Understand What Open Source Is**
 
@@ -7,36 +8,30 @@ Open source software is developed collaboratively and made available to anyone t
 
 ### 2. **Find a Project**
 
-#### **Explore Repositories**
 
-- **GitHub**: Popular platform where many open source projects are hosted. Explore repositories through the [Explore page](https://github.com/explore) or by searching for topics that interest you.
-- **GitLab**: Another platform similar to GitHub. Look for projects via [GitLab Explore](https://gitlab.com/explore/projects).
-- **Bitbucket**: Also hosts open source projects. Check out repositories via [Bitbucket’s Explore page](https://bitbucket.org/product).
 
 #### **Look for Good First Issues**
 
 Many projects label issues that are suitable for beginners. Search for labels like “good first issue,” “beginner,” or “help wanted.”
+You can use this link to see some of the available issues: https://github.com/BlackPythonDevs/blackpythondevs/issues
 
-### 3. **Understand the Project**
 
 #### **Read the Documentation**
 
-- **README.md**: The primary document that usually provides an overview, installation instructions, and usage guidelines.  Read the read me first: https://github.com/CoderBlee/blackpythondevs
+- **README.md**: The primary document that usually provides an overview, installation instructions, and usage guidelines.  Read the read me first:
+- https://github.com/BlackPythonDevs/blackpythondevs/blob/main/README.md
 - **CONTRIBUTING.md**: Guidelines for contributing to the project. This can include coding standards, testing protocols, and how to submit changes.
-- **CODE_OF_CONDUCT.md**: Code of conduct outlines the expectations for behavior in the community.
-
-#### **Set Up Your Development Environment**
-
-Follow the setup instructions provided in the documentation. This may involve installing dependencies, setting up a development environment, or running tests.
+- https://github.com/BlackPythonDevs/blackpythondevs/blob/main/README.md
+  
 
 ### 4. **Start Contributing**
 
 #### **Fork and Clone the Repository**
 
-1. **Fork** the repository to your GitHub account. This creates a copy that you can freely modify.
+1. **Fork** the repository (https://github.com/BlackPythonDevs/blackpythondevs ) to your GitHub account. This creates a copy that you can freely modify.
 2. **Clone** the forked repository to your local machine using:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/your-username/blackpythondevs.git | https://github.com/your-username/blackpythondevs
    ```
 
 #### **Create a Branch**
