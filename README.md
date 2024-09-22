@@ -1,10 +1,12 @@
 # The Black Python Devs Maintainers Guide
 
-We want to ensure that our community is transparent in how we think, act, and respond. For this reason we have opensourced our community guides.
+Welcome to the Black Python Devs Maintainers Guide! This guide is designed to ensure transparency and consistency in how we, as a community, think, act, and respond. By open-sourcing our community guides, we aim to foster collaboration, inclusivity, and accountability.
 
-This repo entails the programs, policies, roles, and responsibilities of the community. 
+This repository outlines the **programs**, **policies**, **roles**, and **Initiatives** that shape our community. Whether you're a current maintainer, a **contributor**, or someone looking to understand how we work, this guide provides everything you need to know.
 
-Click a link to view our:
+---
+## What You’ll Find in This Repo
+Explore the various aspects of the Black Python Devs community by clicking the links below:
 - [Policies](./policies/)
 - [Programs](./programs/)
 - [Roles](./roles)
