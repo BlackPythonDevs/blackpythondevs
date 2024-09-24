@@ -1,5 +1,11 @@
 # The Black Python Devs Technical Manager
 
+> [!NOTE]
+>
+> **Retired Notice**: This role has been officially retired as of 16 Sept 2024.
+>
+> All Responsibilities have been passed to the Executor.
+
 ## Current Role Leader: Oleksis Fraga
 
 The Black Python Devs Technical Manager is responsible for the social online presence of the Black Python Devs.
@@ -32,6 +38,7 @@ The role also is responsible for managing the accounts on X, Mastodon, YouTube, 
 This includes managing and moderating. Assigning credentials to those that need it.
 
 Finally, the role includes integrating services with our online communities. This mainly entails managing bots/plugins for our Discord server.
+
 ### Responsibilities include but are not limited to
 
 - Enforce the style guides of code contributed to
