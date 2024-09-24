@@ -53,6 +53,6 @@ The conference will provide KN95 masks for people who wish to wear one. We encou
 
 Black Python Devs reserves the right to increase the requirements of this policy based on COVID-19 infection, hospitalization or positive test rates as reported by the CDC. We may also be required to alter our policy to conform with local, state, or federal mandates.
 
-We also recommend that any person who has tested positive in the week prior to the event and will offer resources to participate for free virtually.
+We also request that any person who has tested positive in the week prior to the event not attend in person and will offer resources for them to participate for free virtually.
 
 Public Policy Adapted from [DjangoCon US's public health policy](https://2024.djangocon.us/public-health/)
