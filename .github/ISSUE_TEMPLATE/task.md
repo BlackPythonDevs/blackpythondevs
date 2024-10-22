@@ -16,7 +16,7 @@ about: 'Create a new task to be tracked'
 ## Tasks - Do these in Order
 
 ### Objective:
-To bring together Python, hackerthors and absolute beginners enthusiasts to collaborate on open-source projects, learn new skills, and network with like-minded individuals.
+To bring Python enthusiasts, hackathon participants, and absolute beginners in collaborative open-source projects, fostering skill development and creating opportunities for networking with like-minded individuals.
 
 ### Agenda:
 
