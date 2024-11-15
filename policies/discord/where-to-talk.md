@@ -46,3 +46,9 @@ We understand that people join the community for different reasons. I've said th
 > Our job is to not make anyone _famous_. 
  
 Our goal here is to make the Python Community a place where all  Black Pythonistas of all skill-levels don't simply belong, but lead and thrive. This means that everyone should feel welcome to chat and be encouraged that we are not only for celebrities. So if you came here to build your clout, it's not going to be the best place for that.
+
+## Posting of Unpaid Jobs
+
+Please do not post unpaid positions in any of our Discord channels. While internships are welcome, we prohibit posting positions offering equity-only compensation.
+
+This is because equity-based compensation can be problematic. While it has the potential for significant rewards if the startup succeeds, it often involves working without guaranteed future pay. The arrangement may suit certain stages of life, but it's generally inappropriate for most people in our community, who seek paid opportunities.
