@@ -12,9 +12,11 @@ We keep an annual record of our supporters to track their contributions over tim
 
 ## Updating or Removing Supporter Information
 
-Upon request in writing (via email to leadership@blackpythondevs.com), individuals can have one or more instances of their name updated or removed from the public record files. Considering the file is kept in version control, information cannot be completely deleted. To not have your name included please mark to be anonymous at time of donation.
+You can request updates or removal of your name from our public records by sending a written request via email to **leadership@blackpythondevs.com**.
 
-Record keeping is done using [CommitChange](https://commitchange.com). Information in CommitChange can be updated but should not be removed.
+However, since we manage these records using version control, we cannot completely delete all information. So if you prefer not to have your name appear in our public records, please mark it as `anonymous` at the time of your donation.
+
+We use [CommitChange](https://commitchange.com) for record-keeping. While we can update information in `CommitChange`, we cannot remove it entirely.
 
 ## Adding a name to the list of Supporters
 
