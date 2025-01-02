@@ -6,7 +6,7 @@ created_by: Jay Miller
 last_updated_by: Jay Miller
 ---
 
-## A record of supporters to be kept
+# Record of Supporters
 
 A public record of supporters by year should be kept. This allows us to see an individual's contribution year over year.
 
