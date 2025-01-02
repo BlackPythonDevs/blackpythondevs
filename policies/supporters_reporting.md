@@ -20,7 +20,7 @@ We use [CommitChange](https://commitchange.com) for record-keeping. While we can
 
 ## Adding a name to the list of Supporters
 
-The supporters list will be updated at the end of the year using the end-of-year export feature in CommitChange.
+The supporters’ list is annually updated using the end-of-year export feature in `CommitChange`.
 
 ## Foundational Supporters listed on the website
 
