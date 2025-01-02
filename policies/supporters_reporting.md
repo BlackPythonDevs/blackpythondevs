@@ -8,9 +8,7 @@ last_updated_by: Jay Miller
 
 # Record of Supporters
 
-A public record of supporters by year should be kept. This allows us to see an individual's contribution year over year.
-
-In order to protect the privacy of individuals, No information other than their name shall be made public.
+We keep an annual record of our supporters to track their contributions over time. To protect their privacy, we only share their names in public.
 
 ## Update/Removal of individuals
 
