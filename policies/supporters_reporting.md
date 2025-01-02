@@ -10,7 +10,7 @@ last_updated_by: Jay Miller
 
 We keep an annual record of our supporters to track their contributions over time. To protect their privacy, we only share their names in public.
 
-## Update/Removal of individuals
+## Updating or Removing Supporter Information
 
 Upon request in writing (via email to leadership@blackpythondevs.com), individuals can have one or more instances of their name updated or removed from the public record files. Considering the file is kept in version control, information cannot be completely deleted. To not have your name included please mark to be anonymous at time of donation.
 
