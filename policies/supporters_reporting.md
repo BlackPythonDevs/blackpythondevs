@@ -24,6 +24,6 @@ The supporters’ list is annually updated using the end-of-year export feature 
 
 ## Foundational Supporters listed on the website
 
-If a donor donates over $200 in one calendar year, their name will be added to the website as a foundational supporter. This information is updated monthly using [CommitChange](https://commitchange.com) our payment processor.
+Donors who contribute over $200 in a calendar year will be recognized as Foundational Supporters, and their names will be featured on our website. This information is updated monthly through our payment processor, `CommitChange`.
 
-Foundational Supporters are listed from the month after they reach $200 donated in that calendar year and the following year.
+Foundational Supporters are listed starting from the month they reach $200 in donations for that calendar year and remain listed through the following year.
