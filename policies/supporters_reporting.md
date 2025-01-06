@@ -18,7 +18,7 @@ However, since we manage these records using version control, we cannot complete
 
 We use [CommitChange](https://commitchange.com) for record-keeping. While we can update information in `CommitChange`, we cannot remove it entirely.
 
-## Adding a name to the list of Supporters
+## Adding a Name to the List of Supporters
 
 The supporters’ list is annually updated using the end-of-year export feature in `CommitChange`.
 
