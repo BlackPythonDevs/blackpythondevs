@@ -22,7 +22,7 @@ We use [CommitChange](https://commitchange.com) for record-keeping. While we can
 
 The supporters’ list is annually updated using the end-of-year export feature in `CommitChange`.
 
-## Foundational Supporters listed on the website
+## Foundational Supporters
 
 Donors who contribute over $200 in a calendar year will be recognized as Foundational Supporters, and their names will be featured on our website. This information is updated monthly through our payment processor, `CommitChange`.
 
