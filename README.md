@@ -15,3 +15,5 @@ Click a link to view our:
 Changes to this guide should be discussed and made using a simple [GitHub workflow](https://blog.hubspot.com/website/github-flow).
 
 Contributions follow that of our standard [CONTRIBUTING](https://github.com/BlackPythonDevs/.github/blob/main/CONTRIBUTING.md) guide.
+
+Ensure that you follow our [Style guide](./style_guide.md) when contributing to this guide.  
