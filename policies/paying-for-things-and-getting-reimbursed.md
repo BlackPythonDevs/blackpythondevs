@@ -8,8 +8,8 @@ Also, you should send a quote for the expenses to the email address _treasury@bl
 
 The following roles have the authority to approve purchases:
 
-* Executor (Chairman)
-* Vice-Executor (Vice-Chair)
+* Global Executor (Chairman)
+* Regional-Executor
 * Treasurer
 
 ## Authorized Request Types
