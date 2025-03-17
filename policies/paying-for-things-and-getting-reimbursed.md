@@ -39,4 +39,4 @@ All wire transfers require the following information:
 
 Ensure you get approval before paying out of pocket.
 
-If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from _treasury@blackpythondevs.com_. Fill out the form and send it to _treasury@blackpythondevs.com_.
+If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from _treasury@blackpythondevs.com_. Fill out the form and send it to _accounting@gnome.org_ and cc _leadership@blackpythondevs.com_. 
