@@ -38,7 +38,7 @@ The purpose of this grants policy is to provide a structured approach to sponsor
 
 ## 6. Application Process
   
-  Apply for an BPD Event grant by emailing sponsorships@blackpythondevs.com **NO LATER THAN 6 WEEKS PRIOR** to the event.
+  Apply for an BPD Event grant by emailing sponsorships@blackpythondevs.com **at least 6 weeks prior** to the event.
   
   Include in your request:
   
