@@ -1,35 +1,37 @@
-# Conference Sponsorship Coordinator
+# Conference sponsorship coordinator
 
-The Conference Sponsorship Coordinator is a regional liaison responsible for managing and coordinating sponsorship activities for Black Python Devs' conferences.
+The **Conference sponsorship coordinator** is a regional liaison responsible for managing and coordinating sponsorship activities for Black Python Devs' conferences.
 
-## Current Role Leaders
+## Current role leaders
 
-* Nuel 
-* [Steve Yonkeu](https://github.com/yokwejuste)
+The following are the current Conference sponsorship coordinators:
 
-## Roles Open
+- Emmanuel Ugwu
+- [Steve Yonkeu](https://github.com/yokwejuste)
 
-* North American Coordinator
+## Open roles
 
-## Requirements to Fulfill the Role
+- North American Coordinator
 
-This position requires strong communication skills, attention to detail, and the ability to build and maintain relationships with sponsors.
+## Requirements to fulfill the role
+
+This role requires strong communication skills, attention to detail, and the ability to build and maintain relationships with sponsors.
 
 ## Responsibilities
 
-The Conference Sponsorship Coordinator has the following duties:
+The Conference sponsorship coordinator has the following duties:
 
-* Act as the main point of contact for sponsors, addressing any inquiries or concerns.
-* Provide regular updates and reports to sponsors regarding the status of their sponsorship and the impact of their contributions.
-* Work closely with other team members, including event organizers and marketing personnel, to ensure sponsorship deliverables are met.
-* Collaborate with the marketing team to promote sponsorship opportunities and maximize sponsor visibility before, during, and after conferences.
-* Maintain accurate records of sponsorship agreements, payments, and sponsor contact information.
-* Prepare regular reports on sponsorship revenue, trends, and opportunities for improvement.
+- Act as the main point of contact for sponsors, addressing any inquiries or concerns.
+- Provide regular updates and reports to sponsors regarding the status of their sponsorship and the impact of their contributions.
+- Work closely with other team members, including event organizers and marketing personnel, to ensure sponsorship deliverables are met.
+- Collaborate with the marketing team to promote sponsorship opportunities and maximize sponsor visibility before, during, and after conferences.
+- Maintain accurate records of sponsorship agreements, payments, and sponsor contact information.
+- Prepare regular reports on sponsorship revenue, trends, and opportunities for improvement.
 
 ## Access
 
-The Conference Sponsorship Coordinator will be granted access to the following resources:
+The Conference sponsorship coordinator will be granted access to the following resources:
 
-* Sponsorship@blackpythondevs.com email address.
-* Shared documentation folder containing sponsorship agreements, templates, and contact information.
-* Collaboration tools used by the Black Python Devs documentation team.
+- `Sponsorship@blackpythondevs.com` email address.
+- Shared documentation folder containing sponsorship agreements, templates, and contact information.
+- Collaboration tools used by the Black Python Devs documentation team.
