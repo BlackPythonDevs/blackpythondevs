@@ -22,4 +22,4 @@ The Global executor will be granted access to the following:
 
 ## Term limit
 
-The Global executor will remain a permanent, global leadership position with no term limit.
+The Global executor is a permanent, global leadership position with no term limit.
