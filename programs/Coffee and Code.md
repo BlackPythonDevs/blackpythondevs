@@ -1,89 +1,100 @@
-# Coffee & Code Monthly Meetup Proposal
+# Coffee and Code monthly meetup proposal
 
-## Summary
+We need to formalize the establishment of our monthly **Coffee and Code** virtual meetup within our Discord server to foster community engagement, knowledge sharing, and networking among members.
 
-Codify the establishment of our monthly **"Coffee & Code"** virtual meetup within our Discord server to foster community engagement, knowledge sharing, and networking among members.
+## Purpose
 
-## Description
+Coffee and Code will be a 60-90 minute monthly session hosted on Discord, blending casual networking with structured technical learning.
 
-**Coffee & Code** will be a 60-90 minute monthly session hosted on Discord, blending casual networking with structured technical learning. The format includes:
+The format includes:
 
-- **15 minutes**: Initial coffee chat and networking
-- **45 minutes**: Technical presentations or workshops
-- **30 minutes**: Q&A and open discussion
+- **15 minutes:** initial coffee chat and networking
+- **45 minutes:** technical presentations or workshops
+- **30 minutes:** Q&A and open discussion
 
-### Key Benefits:
-- Regular community engagement opportunity
-- Structured knowledge sharing
-- Platform for members to showcase expertise
-- Low-barrier entry point for new community members
+## Key benefits
 
-## Support Requirements
+The meetup is designed to provide the following benefits to our community:
 
-### Technical Needs
- **Server Level**
- - Discord Turbo Level 3 or higher.
- 
- **Mods/Hosts**
-  - Ability to mute, report, and ban users as needed.
-  - Optional: Recording functionality for future session reference.
- 
- **Presenters**
-   - Screen sharing capability.
-   - Microphone and optional web camera.
+- regular community engagement opportunity
+- structured knowledge sharing
+- platform for members to showcase expertise
+- low-barrier entry point for new community members
 
-### Administrative Needs
-- **Speaker Coordination:**
+## Technical needs
 
-**BPD Questions for speakers at virtual meetup**:
-- Are you still interested in presenting on the 15th at 12pm ET (Use time.is/compare)
+To ensure smooth execution of each session, the following technical requirements must be met:
+
+- **Server level:** Discord Turbo Level 3 or higher
+
+- **Mods/hosts:**
+    - ability to mute, report, and ban users as needed
+    - recording functionality for future session reference (optional)
+
+- **Presenters:**
+    - screen sharing capability.
+    - microphone and optional web camera.
+
+## Administrative needs
+
+To support speaker coordination and session preparation, we will ask speakers to respond to the following questions:
+
+- Are you still interested in presenting on the 15th at 12 pm ET (Use time.is/compare)?
 - How would you like me to introduce you - name/bio?
 - Are you okay with recording the presentation and putting it on our YouTube?
 - Do you have a title/description for what you want to present?
 
-## Promotion Strategy
+## Promotion strategy
 
-### Internal Promotion
-- Pinned announcements in main Discord channels
-- Monthly event calendar integration (knowledge sharing) 
-- Direct outreach to active community members requesting presenters
+To promote participation, we will implement both internal and external promotional efforts:
 
-### External Promotion
-- Social media announcements (Twitter, LinkedIn)
-- Cross-promotion with aligned tech communities
-- Blog posts featuring previous session highlights
-- Encourage member sharing within their networks
+- **Internal promotion:**
+    - pinned announcements in the main Discord channels
+    - monthly event calendar integration (knowledge sharing) 
+    - direct outreach to active community members requesting presenters
 
-## Speaker Acquisition
+- **External promotion:**
+    - social media announcements (Twitter, LinkedIn)
+    - cross-promotion with aligned tech communities
+    - blog posts featuring previous session highlights
+    - encourage members to share within their networks
 
-### Finding Speakers
-**Internal Community Outreach**
-- Direct invitation to active members
-- Recognition program for speakers
+## Speaker acquisition
 
-**External Outreach**
-- Partnership with other tech communities
-- Leverage member networks for introductions
-- Targeted outreach to industry experts
+Speakers will be sourced through both internal and external outreach efforts:
 
-### Speaker Support
-- Clear speaking guidelines and expectations.
-- Technical setup assistance
-- Speaker prep session option.
+- **Internal community outreach:**
+    - direct invitation to active members
+    - recognition program for speakers
 
-## Implementation Timeline
+- **External outreach:**
+    - partnership with other tech communities
+    - member networks
+    - targeted outreach to industry experts
 
-- **Week 1**:
-  - Recruit 2 speakers.
-  - Gather speaker bios and topic details.
-  - Create promotional materials.
+## Speaker support
 
-- **Week 2**:
-  - Launch main event announcement.
+To ensure a positive experience for all presenters, the following speaker support will be provided:
 
-- **Week 3**:
-  - Post event reminders.
+- clear speaking guidelines and expectations
+- technical setup assistance
+- speaker prep session option
 
-- **Week 4**:
-  - Speaker prep-session option (Early in week).
-  - Presentation (Friday).
+## Implementation timeline
+
+Below is a proposed four-week timeline to prepare and deliver each session:
+
+- **Week 1:**
+    - recruit 2 speakers
+    - gather speaker bios and topic details
+    - create promotional materials
+
+- **Week 2:**
+    - launch main event announcement
+
+- **Week 3:**
+    - post-event reminders
+
+- **Week 4:**
+    - speaker prep-session option (Early in the week)
+    - presentation (Friday)

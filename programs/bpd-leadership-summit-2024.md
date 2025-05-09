@@ -1,6 +1,4 @@
-# BPD Leadership Summit 2024
-
-## Venue
+# BPD leadership summit 2024
 
 The BPD Leadership Summit will take place at the **DjangoCon US** conference venue (Caktus or Actual conference Venue).
 
@@ -17,7 +15,7 @@ The following housekeeping rules apply to the summit:
 * bring your lunch
 * be responsible for your properties
 
-## Invited Persons
+## Invited persons
 
 The following individuals are invited to the summit:
 
@@ -27,7 +25,7 @@ The following individuals are invited to the summit:
 
 ## Schedule for BPD Summit
 
-**NB: The Leadership Summit will be running from 9 am - 5 pm**.
+**NB: The Leadership summit will be running from 9 am - 5 pm**.
 
 | Time | Event |
 |:----------|:----------|
@@ -45,14 +43,14 @@ The following individuals are invited to the summit:
 | **4:15 - 4:40 pm**    | By The Fireside Chat  |
 | **4:40 - 5:00 pm**    | Closing Remarks  |
 
-## Public Health Policy
+## Public health policy
 
 In order to keep conference attendees safe we suggest you follow [CDC's Travel guidelines to stay safe](https://wwwnc.cdc.gov/travel/diseases/covid19).
 
 The conference will provide KN95 masks for people who wish to wear one. We encourage but do not require that all attendees wear a certified KN95 / N95 respirator mask (with no outflow vent) while inside. If you prefer to wear a surgical mask, we suggest an ASTM Level 3 rated mask.
 
-Black Python Devs reserves the right to increase the requirements of this policy based on COVID-19 infection, hospitalization or positive test rates as reported by the CDC. We may also be required to alter our policy to conform with local, state, or federal mandates.
+Black Python Devs reserves the right to increase the requirements of this policy based on COVID-19 infection, hospitalization or positive test rates as reported by the CDC. We may also be required to alter our policy to conform with local, state, or federal laws.
 
 We also request that any person who has tested positive in the week prior to the event not attend in person and will offer resources for them to participate for free virtually.
 
-Public Policy Adapted from [DjangoCon US's public health policy](https://2024.djangocon.us/public-health/)
+Public health policy adapted from [DjangoCon US's public health policy](https://2024.djangocon.us/public-health/)
