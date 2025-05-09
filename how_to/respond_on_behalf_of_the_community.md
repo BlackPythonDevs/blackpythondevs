@@ -1,1 +1,1 @@
-# How to Respond on Behalf of the Community
+# How to respond on behalf of the community

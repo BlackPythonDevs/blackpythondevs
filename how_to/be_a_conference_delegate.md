@@ -1,1 +1,1 @@
-# How to Be a Conference Delegate
+# How to be a conference delegate
