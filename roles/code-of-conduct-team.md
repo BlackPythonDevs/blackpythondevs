@@ -1,18 +1,19 @@
-# The Code of Conduct Working Group
+# The code of conduct working group
 
-Execute the roles of the Code of Conduct Working Group as it pertains to the [Working Group Charter][Working Group Charter]
+This group executes the responsibilities outlined in the [Code of conduct working group](/policies/working_groups/code_of_conduct.md).
 
+## Board liaison
 
-## Members
+The current board liaison officer is Doreen Nangira.
 
-### Board Liaison: Doreen Nangira
+## Current members
 
-### Current Members:
+The following are the current members of the team:
 
 - Chris Achinga
 - CME Techie
 - Monica Oyugi
 
-## Term: No Term Length  
+## Term limit
 
-[Working Group Charter]: https://github.com/BlackPythonDevs/.maintainers/blob/main/policies/working_groups/code_of_conduct.md
+There is no term length for this role.
