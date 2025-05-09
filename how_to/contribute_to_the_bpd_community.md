@@ -1,1 +1,1 @@
-# How to Contribute to the BPD Community
+# How to contribute to the BPD community
