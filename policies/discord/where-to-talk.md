@@ -1,54 +1,53 @@
-# The Best Place to Chat in the Discord...
+# The best place to chat in Discord
 
-We get asked often "Where is the best place to talk about..."
+People often ask: “Where’s the best place to talk about…?”
 
-We've been trying to figure this out ourselves and currently our policy is _the community will figure it out and we will do our best to support it_.
+We’ve been asking the same thing. Right now, our answer is simple: _the community figures it out, and we support what works_.
 
-Okay but what does that mean...
+So what does that mean? It means there’s no perfect answer. Is GitHub a good place? The answer to this depends on what you want to do. GitHub is where issues and PR updates show up. It helps reduce noise and keeps people informed.
 
-This means that there isn't really a wrong answer. Is `#github` the best place to have that discussion, kinda yes and no.  The `#github` channel was actually where issues and PR updates are relayed to the community. This is in part to reduce the number of places to check but also so people can see new issues. 
+That said, we also have a `#contributors-wanted` channel in Discord. The channel is for sharing projects that need help.
 
-That said we also have `#contributors-wanted` where maintainers can share open source projects that are looking for maintainers. But until writing this I totally forgot that it existed and I've been putting things in `#general`. 
+## Start in `#general` when in doubt
 
-## When in doubt start in `#general`
+The `#general` channel in Discord is the home for all kinds of conversation. You can share your excitement, ask a question, bring up a community topic—it all fits.
 
-General is meant to be the home for all kinds of conversation. Whether you're excited about a new event or meetup or something in the community is happening and you want our opinion about it.
+Not sure where something belongs? Start in `#general`. Our rule is that you _won't be yelled at for putting something in `#general`_.
 
-If you don't know where something should go, our rule is you _usually won't be yelled at for putting something in `#general`_.
+This means that a lot of the conversation happens in `#general`. So, we encourage you to have conversations in the channel.
 
-Obviously, this means that a lot of conversation should be happening in `#general` (we encourage you to have conversations.)
+## When is `#general` not okay?
 
-This is where discords technology should be used.
+Two things don’t belong in #general:
 
-- If you want to have a conversation on a message start a thread.
-- If you want something to have a longer discussion on it, use the `community-discussion`
-- If it's related to a conversation happening in a channel or to a specific group, then link and continue the conversation in the channel. 
-- If you think a channel should be created for it, simply ask `@mods` or `@BPDLeaders`. The worst they will say is either "No" or "That exists already". In many cases they'll just make the channel.
+- direct solicitation
+- aggressive self-promotion
 
-## When is `#general` not okay
+### No direct soliciting
 
-The only thing that is generally not okay is solicitation or **aggresive** self-promotion.
+We care about a lot of projects. Black Python Devs is a US non-profit. This means that a part of what we do is raise money. So we do our best to keep fundraising efforts internal to the community at an absolute minimum. This is because we don't want the community to feel like a place where you are constantly being asked for money. We will only share campaigns we're doing once they launch and **how folks can share the campaign**. There is no expectation for anyone to pay for being in _Black Python Devs_ or taking part in Black Python Devs events on the Discord.
 
-### No Direct Soliciting
+That message gets skewed when members come and ask for money. Not everyone is in a position where being asked for money is something they can easily say "Yes" or "No". That kind of pressure can make people uncomfortable in the community.
 
-There are a lot of projects that we all care about. Black Python Devs is a US Non-Profit. This means that a part of what we do is raise money. That being, said we do our best to keep fundraising efforts internally to the community at an absolute minimum. This is because we truly don't want the community to feel like a place where you are constantly being asked for money. In fact, we will only share campaigns we're doing once they launch and **how folks can share the campaign**. There is no expectation that anyone pay for being in _Black Python Devs_ or taking part of Black Python Devs events in the Discord.
+### Aggressive self promotion
 
-That message gets skewed when members come and ask for money. Not everyone is in a position where being asked for money is something they can easily say "Yes" or "No". Whether the reasons are financial or cultural that pressure can cause people to not feel comfortable in the community.
+If you wrote something that you're excited about or you've hit an amazing milestone in your career, we want you to share that excitement with us. `#general` can be a great place for it.
 
-### Aggressive Self Promotion
+If you're on a content grind, this is not your a place for you. 
 
-If you wrote something that you're excited about or you've hit an amazing milestone in your career, we want you to share that excitement with us. `#general` can be a great place for it. 
+We understand that people join the community for different reasons, but **_it's not our job to make anyone famous_**. Our goal is to make the Python community a place where all  Black Pythonistas of all skill levels don't simply belong, but lead and thrive. This means that everyone should feel welcome to chat. So the BPD community is not the place to build your clout.
 
-If you're on your #content-grind. This is not your channel. 
+## Posting of unpaid Jobs
 
-We understand that people join the community for different reasons. I've said this before and I'll stand on it. 
-
-> Our job is to not make anyone _famous_. 
- 
-Our goal here is to make the Python Community a place where all  Black Pythonistas of all skill-levels don't simply belong, but lead and thrive. This means that everyone should feel welcome to chat and be encouraged that we are not only for celebrities. So if you came here to build your clout, it's not going to be the best place for that.
-
-## Posting of Unpaid Jobs
-
-Please do not post unpaid positions in any of our Discord channels. While internships are welcome, we prohibit posting positions offering equity-only compensation.
+Please don't post unpaid positions in any of our Discord channels. While internships are welcome, we prohibit posting positions offering equity-only compensation.
 
 This is because equity-based compensation can be problematic. While it has the potential for significant rewards if the startup succeeds, it often involves working without guaranteed future pay. The arrangement may suit certain stages of life, but it's generally inappropriate for most people in our community, who seek paid opportunities.
+
+## Using our Discord channels
+
+You can use our Discord in the following manner:
+
+- If you want to have a message-like conversation, start a thread.
+- If you want to have a longer discussion, use the `community-discussion` channel.
+- If it's related to a conversation happening in a channel or to a specific group, then link and continue the conversation in the channel. 
+- If you think a channel should be created for it, ask `@mods` or `@BPDLeaders`. The worst they will say is either "No" or "That exists already". In most cases, they'll just make the channel.

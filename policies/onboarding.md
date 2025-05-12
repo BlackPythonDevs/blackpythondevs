@@ -1,7 +1,7 @@
-# Onboarding New Black Python Dev Leadership
+# Onboarding new Black Python Dev leadership
 
-### Things to Do
+### Things to do
 
-- Assign the BPD Leaders Role
-- Ensure they are added to the `#leadership` channel
-- Add GitHub account to the organization leadership channel
+- assign the BPD leaders Role
+- ensure they are added to the `#leadership` channel
+- add GitHub account to the organization leadership channel
