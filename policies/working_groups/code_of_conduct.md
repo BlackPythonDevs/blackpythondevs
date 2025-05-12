@@ -1,32 +1,8 @@
-# Code of Conduct Working Group
+# Code of conduct working group
 
-Submitting a code of conduct report is not just an act of courage, but a powerful step towards fostering a culture of respect, safety, and inclusivity. Your voice matters, and your willingness to speak up ensures that everyone feels valued and heard. By reporting any instances of misconduct, you're not only advocating for yourself but also for the well-being of your community. Together, we can create environments where everyone feels empowered to thrive. So, don't hesitate—your actions today pave the way for a brighter, more equitable tomorrow.
+The **Code of conduct working group** helps in keeping our community safe, respectful, and welcoming. This team is responsible for reviewing and enforcing our [Code of Conduct](https://github.com/BlackPythonDevs/.github?tab=coc-ov-file#readme) across all Black Python Devs platforms. The platforms include Discord, social media, and anywhere BPD members interact on behalf of the community.
 
-The Code of Conduct can be found at: <https://github.com/BlackPythonDevs/.github?tab=coc-ov-file#readme>
-
-## Current Code of Conduct Working Group:
-
-- Chris Achinga
-- Monica Oyugi
-- CME Techie
-
-## Nomination
-
-If there is an opening for the Code of Conduct please fill out the [request form](https://forms.gle/cqkvBPhy77YNtDLw5).
-
-### Removal from Code of Conduct Working Group
-
-A working group member may be removed from the Code of Conduct Working Group if:
-
- - That member is found to be in violation of the Code of Conduct and disciplinary action is required.
- - That member is does not engage in the activities of the Code of Conduct working group on a consistent basis.
- - That member elects to resign from the working group.
-
-## Election:
-
-Selection is based on the group in conjunction with the Board Liaison.
-
-## Founding Group:
+## Current code of conduct working group members
 
 - Chris Achinga
 - Monica Oyugi
@@ -34,59 +10,74 @@ Selection is based on the group in conjunction with the Board Liaison.
 
 ## Responsibilities:
 
-- Review our Code of Conduct and make any necessary changes
-- Enforce the Code of Conduct across ALL members in our Official Communities
+- review our Code of Conduct and make any necessary changes
+- enforce our Code of Conduct across all members and communities, including:
     - Black Python Devs Discord
-    - Members engaging with Black Python Devs Social Media Accounts
-    - Members acting on behalf or representing Black Python Devs
-    - Interaction between two or more Black Python Devs members outside of the community that could 
-    - Action of Black Python Devs leadership or community leader that is in violation of our Code of Conduct that endangers the commmunity or its members
+    - members engaging with Black Python Devs social media accounts
+    - members acting on behalf of or representing Black Python Devs
+    - interaction between two or more Black Python Devs members outside of the community that could negatively impact the community and the well-being of others in the community
+    - action of Black Python Devs leadership or a community leader that violates our Code of Conduct that endangers the community or its members
 
-- Gather to discuss and remediate all issues that make the communities of Black Python Devs a less safe place for members to interact. The expectation would be that the Code of Conduct be updated in those instances.
+- gather to discuss and mediate issues that make the Black Python Devs community less safe for members
 
-## Reporting an Incident
+## Becoming a member
 
-We must emphasize you should file a report if you believe that the Code of Conduct may have been violated, even if you are unsure or were not directly involved in the incident. 
+When there’s an opening on the Code of conduct working group, you can fill out the  [request form](https://forms.gle/cqkvBPhy77YNtDLw5) to express your interest in joining.
 
-Your report will be recorded and initially shared with our Code of Conduct team and our Code of Conduct Liaison. If a consensus cannot be met, the Executor and Vice-Executor will also be notified.
+After you submit the form, current members will review your application and make a final decision in collaboration with the Board liaison.
 
-If determined that corrective or remediative action is necessary, we will notify the person in which the report was directed towards while keeping the identity of the reporting person anonymous if possible.
+## Removing a member
 
-## Goals of Incident Response
+A member of the group may be removed if:
 
-The Code of Conduct working group is expected to acknowledge the report in a timely manner and reach out to the reporting party indicating that the event has been documented and the working group is working to determine the appropriate course of action.
+- that member is found to be in violation of the Code of Conduct, and disciplinary action is required
+- that member doesn't consistently engage in the activities of the Code of conduct working group
+- that member elects to resign from the group
 
-The working group should discussed in the #code-of-conduct-working-group text and voice channels  of the Black Python Devs Discord channel. It is important that these conversations stay in these channels to keep the anonymity of the user. 
+## Reporting an incident
 
-In the event that a member of the Code of Conduct working group is involved in the reported incident, they should recuse themselves from the discussion. If said member is the offending member, the Executor or Vice-Executor will act in place of the offending member.
+You can file a report if you believe that the Code of Conduct has been violated, even if you are unsure or were not directly involved in the incident.
 
-### Things to remember when handling an incident
+Reporting a Code of Conduct violation takes courage and shows a strong commitment to building a respectful, safe, and inclusive community. Your voice matters. Speaking up helps everyone feel seen, heard, and valued. When you report misconduct, you protect not just yourself but the entire community.
 
-- Blending of Cultures are difficult but showing respect, compassion, and empathy is not. Our judgement is based on the intent of the action
-- Act in fairness to all parties, retaining the anonymity of the reporting person. 
-- Failure to adjust to corrective or remediate actions will not be tolerated and will result in more severe action.
+Your report will be recorded and first shared with the Code of conduct working group and the Code of conduct liaison. If a consensus cannot be met, the Global executor, Regional executors, and Vice regional executors will be notified.
 
-## Taking Action
+If determined that corrective or remedial action is necessary, we will notify the alleged offender while keeping the identity of the reporting person anonymous.
 
-If the Code of Conduct working group has decided that some action should be taken, it will be in the form of corrective or remediate action.
+## Handling incident report
 
-### Corrective Action
+The Code of conduct working group is expected to acknowledge the report in a timely manner and reach out to the reporting party. They should also indicate that the event has been documented and the group is working to determine the appropriate course of action.
 
-Corrective action is deemed necessary if it is determined that a Code of Conduct violation has indeed happened.
+The incident should be discussed in the #code-of-conduct-working-group text and voice channels  of the Black Python Devs Discord channel. These conversations must stay in these channels to keep the anonymity of the parties.
 
-#### Types of Corrective Action
+If a member of the Code of conduct working group is involved in the reported incident, they should recuse themselves from the discussion. Here, the Global executor, Regional executors, and Vice regional executors will act to determine the appropriate course of action.
 
-- A verbal and recorded warning
-- Permanent suspension from our community channels.
-- Removal of a leadership position
+The group will keep the following in mind when handling an incident:
 
-### Remediate Actions
+- blending cultures can be difficult, but showing respect, compassion, and empathy is not.
+- appropriate course of action should be based on the intent behind the action
+- act fairly toward all parties, and protect the anonymity of the reporting individual.
+- failure to comply with corrective or remedial actions will not be tolerated and may result in more severe action
 
-Remediate action is a non-disciplinary action that works to clarify the Code of Conduct or a members behavior that while not considered a violation, could be misconstrued as innappropriate.
+### Corrective action
 
-Remediate action is taken in the event that some cultural or communicative misunderstanding has taken place and it is determined that something could be done to clarify things.
+Corrective action is deemed necessary if it's determined that a Code of Conduct violation indeed happened.
 
-#### Types of Remediate Action
+If the Code of Conduct working group decides that action is necessary, it will take the form of either corrective or remedial actions.
 
-- A corrective conversation
-- Necessary policy update and addition to our Code of Conduct
+Examples of corrective actions include:
+
+- a verbal and recorded warning
+- permanent suspension from our community channels
+- removal from leadership position
+
+### Remedial action
+
+Remedial action is non-disciplinary. It aims to clarify the Code of Conduct or address a member’s behavior that, while not a clear violation, could be misunderstood or seem inappropriate.
+
+This action is taken when a cultural or communication-related misunderstanding occurs, and clarification is needed.
+
+Examples of remedial actions include:
+
+- a clarifying conversation
+- updating or adding relevant policies to the Code of Conduct
