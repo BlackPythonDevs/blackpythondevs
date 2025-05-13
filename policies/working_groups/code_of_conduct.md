@@ -40,7 +40,7 @@ You can file a report if you believe that the Code of Conduct has been violated,
 
 Reporting a Code of Conduct violation takes courage and shows a strong commitment to building a respectful, safe, and inclusive community. Your voice matters. Speaking up helps everyone feel seen, heard, and valued. When you report misconduct, you protect not just yourself but the entire community.
 
-Your report will be recorded and first shared with the Code of conduct working group and the Code of conduct liaison. If a consensus cannot be met, the Global executor, Regional executors, and Vice regional executors will be notified.
+Your report will be recorded and first shared with the Code of conduct working group. If a consensus cannot be met, the Global executor, Regional executors, and Vice regional executors will be notified.
 
 If determined that corrective or remedial action is necessary, we will notify the alleged offender while keeping the identity of the reporting person anonymous.
 
