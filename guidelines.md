@@ -1,15 +1,19 @@
-# Yoruba Language Writing Guide
+# Yoruba language writing guide
 
 ## Introduction (òrò àkoso)
+
 Yoruba is a language spoken predominantly in southwestern Nigeria and parts of Benin and Togo. Proper writing of Yoruba involves understanding its alphabet, tonal system, and grammatical structures. This guide provides a comprehensive overview of these elements to help you write Yoruba correctly.
 
-## Yoruba Alphabet (Ọfẹ́ẹ̀ àlà Yorùbá)
+## Yoruba alphabet (Ọfẹ́ẹ̀ àlà Yorùbá)
+
 Yoruba uses the Latin alphabet with additional diacritical marks to represent its unique sounds and tones.
 
 ### Vowels (Àwọn ẹlẹ́rìí)
+
 Yoruba has seven oral vowels and five nasal vowels.
 
-#### Oral Vowels
+#### Oral vowels
+
 | Letter | Pronunciation |
 | ------ | ------------- |
 | a      | as in "father" |
@@ -20,7 +24,8 @@ Yoruba has seven oral vowels and five nasal vowels.
 | ọ      | as in "ought" |
 | u      | as in "flute" |
 
-#### Nasal Vowels
+#### Nasal vowels
+
 | Letter | Pronunciation |
 | ------ | ------------- |
 | an     | nasalized "a" |
@@ -30,6 +35,7 @@ Yoruba has seven oral vowels and five nasal vowels.
 | un     | nasalized "u" |
 
 ### Consonants
+
 Yoruba consonants are similar to those in English but with some unique sounds.
 
 | Letter | Pronunciation        |
@@ -53,7 +59,8 @@ Yoruba consonants are similar to those in English but with some unique sounds.
 | w      | as in "water"        |
 | y      | as in "yes"          |
 
-## Tonal Marks (Àwọn iṣẹ́lẹ̀ àwọn irò-ọ̀rọ̀)
+## Tonal marks (Àwọn iṣẹ́lẹ̀ àwọn irò-ọ̀rọ̀)
+
 Yoruba is a tonal language, meaning that the pitch at which a word is pronounced can change its meaning. There are three primary tones:
 
 - **High Tone**: Indicated by an acute accent (´), e.g., á
@@ -61,14 +68,17 @@ Yoruba is a tonal language, meaning that the pitch at which a word is pronounced
 - **Low Tone**: Indicated by a grave accent (`), e.g., à
 
 ### Examples (Àfiwé tai àpẹẹrẹ)
+
 - **High Tone**: á, é, í, ó, ú
 - **Mid Tone**: a, e, i, o, u
 - **Low Tone**: à, è, ì, ò, ù
 
-## Syllable Structure
+## Syllable structure
+
 Yoruba syllables typically follow a consonant-vowel (CV) structure, but can also be V, N (nasal consonant), CVV, or CVN.
 
 ### Examples (Àfiwé tai àpẹẹrẹ)
+
 - CV: ba, de, fi
 - V: a, e, o
 - N: m, n
@@ -93,6 +103,7 @@ Yoruba pronouns change based on their function in the sentence.
 | They    | wọ́n    | wọ́n   | tiwọn      |
 
 ### Verbs (àwọn òrò-ìṣe)
+
 Verbs in Yoruba do not conjugate according to tense. Instead, tense is indicated by particles before the verb.
 
 - **Present**: n + verb (e.g., n lọ - "is going")
@@ -100,14 +111,17 @@ Verbs in Yoruba do not conjugate according to tense. Instead, tense is indicated
 - **Future**: máa + verb (e.g., máa lọ - "will go")
 
 ### Examples (Àfiwé tai àpẹẹrẹ)
+
 - Present: Mo n lọ (I am going)
 - Past: Mo ti lọ (I have gone)
 - Future: Mo máa lọ (I will go)
 
 ## Punctuation (àmì ọ̀rọ̀ tabi àmì óhun)
+
 Yoruba uses standard punctuation marks, but there are specific rules for their usage, especially concerning tone marks and vowel elongation.
 
 ## Common Phrases
+
 - **Hello**: Ẹ n lẹ
 - **Good morning**: Ẹ káàárọ̀
 - **Thank you**: Ẹ ṣé
@@ -123,6 +137,7 @@ Yoruba uses standard punctuation marks, but there are specific rules for their u
 
 
 ## Conclusion (ìparí)
+
 Writing Yoruba properly requires attention to its unique alphabet, tonal system, and grammatical rules. By adhering to these guidelines, you can ensure clarity and correctness in your written Yoruba.
 
 ---
