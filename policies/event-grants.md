@@ -10,9 +10,11 @@ The purpose of this grants policy is to provide a structured approach to sponsor
 
 ## 2. Grant budget allocation
 
-### 2.1 Annual budget cap
+### 2.1 Sponsorship Event Cap
 
-- Current grant budget (2025): $2,000
+The sponsorship event cap is the maximum amount a single sponsorship can be. Note the amount is determined by our capacity and options available in the conference perspectus.
+
+- Current grant budget (2025): $1,250 USD
 - Rationale: Designed to support event sponsorships for up to three years at the same level
 
 ### 2.2 Budget considerations
@@ -54,3 +56,4 @@ The grant budget is subject to change based on the organization's financial capa
 ## 8. Changelog
 
 21 Apr 2025 - Updated syntax and added a 6 week prior notification deadline - Jay Miller
+21 Aug 2025 - Changed name of Annual Budget Cap to SPosnorship Event Cap. Added description to Sponsorship Event section. Reduced donation amount for 2025 to $1250 from $2000. Set Currency to USD - Jay Miller
