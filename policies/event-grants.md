@@ -2,7 +2,7 @@
 title: Grants policy document
 author: Jay Miller
 date-created: 19 Jan 2025
-last-updated: 21 Apr 2025
+last-updated: 21 Aug 2025
 ---
 
 ## 1. Purpose
