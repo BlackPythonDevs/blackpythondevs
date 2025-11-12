@@ -5,6 +5,8 @@ We want to ensure that our community is transparent in how we think, act, and re
 This repo entails the programs, policies, roles, and responsibilities of the community. 
 
 Click a link to view our:
+
+- [Byelaws](./byelaws/)
 - [Policies](./policies/)
 - [Programs](./programs/)
 - [Roles](./roles)
