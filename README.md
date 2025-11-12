@@ -6,7 +6,7 @@ This repo entails the programs, policies, roles, and responsibilities of the com
 
 Click a link to view our:
 
-- [Byelaws](./)
+- [Byelaws](./byelaws/)
 - [Policies](./policies/)
 - [Programs](./programs/)
 - [Roles](./roles)
