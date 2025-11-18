@@ -10,7 +10,6 @@ The following roles have the authority to approve purchases:
 
 * Global Executor
 * Regional executor
-* Treasurer
 
 ## Authorized request types
 
@@ -23,6 +22,24 @@ All purchases must be for the official business of Black Python Devs. Approved p
 
 ## How payment is handled
 
+
+### WISE
+
+You can request payment via Wise. This payment type is limited in all countries.
+
+Wise Payments require the following information:
+
+* email address or username associated with the account
+
+### PayPal
+
+You can request payment via paypal. This is often the fastest way to recieve reimbursement but is limited in some countries.
+
+PayPal Payments require the following information:
+
+* email address or username connected to the PayPal account
+
+
 ### Direct payment
 
 Direct payment is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer.
@@ -30,7 +47,7 @@ Direct payment is the preferred method. You can request an invoice to be paid by
 All wire transfers require the following information:
 
 * account name
-* vendor physical address
+* home address
 * address of their bank
 * SWIFT code of their bank (if applicable)
 * currency of their account
@@ -39,4 +56,13 @@ All wire transfers require the following information:
 
 Ensure you get approval before paying out of pocket.
 
-If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from `treasury@blackpythondevs.com`. Fill out the form and send it to `accounting@gnome.org` and cc `leadership@blackpythondevs.com`. 
+If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from `leadership@blackpythondevs.com`. Fill out the form and send it to `leadership@blackpythondevs.com`. 
+
+
+## CHANGELOG:
+
+18 Nov 2025: 
+* Removed references to treasurer role.
+* Moved form request and submission to only leadership@blackpythondevs.com.
+* Updated text around payment reimbursement.
+* Add PayPal and Wise instructions
