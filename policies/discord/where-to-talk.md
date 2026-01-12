@@ -37,11 +37,17 @@ If you're on a content grind, this is not your a place for you.
 
 We understand that people join the community for different reasons, but **_it's not our job to make anyone famous_**. Our goal is to make the Python community a place where all  Black Pythonistas of all skill levels don't simply belong, but lead and thrive. This means that everyone should feel welcome to chat. So the BPD community is not the place to build your clout.
 
-## Posting of unpaid Jobs
+## Posting of Jobs
 
+### Unpaid (equity-only compensation)
 Please don't post unpaid positions in any of our Discord channels. While internships are welcome, we prohibit posting positions offering equity-only compensation.
 
 This is because equity-based compensation can be problematic. While it has the potential for significant rewards if the startup succeeds, it often involves working without guaranteed future pay. The arrangement may suit certain stages of life, but it's generally inappropriate for most people in our community, who seek paid opportunities.
+
+### Job Offers without an official application process
+
+Posts beyond a link to an open job req are not allowed unless you are a corporate sponsor of Black Python Devs (your company donates $1000 or more and has a valid sponsorship agreement with Black Python Devs).
+
 
 ## Using our Discord channels
 
