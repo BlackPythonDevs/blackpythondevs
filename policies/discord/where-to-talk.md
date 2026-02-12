@@ -46,7 +46,7 @@ This is because equity-based compensation can be problematic. While it has the p
 
 ### Job Offers without an official application process
 
-Posts beyond a link to an open job req are not allowed unless you are a corporate sponsor of Black Python Devs (your company donates $1000 or more and has a valid sponsorship agreement with Black Python Devs).
+Posts beyond a link to an open job req are not allowed unless you are a corporate sponsor of Black Python Devs (your company donates $5000 or more and has a valid sponsorship agreement with Black Python Devs).
 
 
 ## Using our Discord channels
