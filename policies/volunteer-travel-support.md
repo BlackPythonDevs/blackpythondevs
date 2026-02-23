@@ -13,7 +13,7 @@ This policy outlines travel support available to Black Python Devs volunteers at
 
 To be eligible for volunteer travel support, you must:
 
-- Be an approved volunteer for a Black Python Devs event or a conference where Black Python Devs has an official presence.
+- Be a BPD Council member, a member of the Leadership Team, or be recommended by a BPD Council member or the Leadership Team.
 - Have written approval from the Regional Executor responsible for the event's location prior to incurring any travel expenses.
 
 ## 3. Travel support cap
