@@ -12,12 +12,14 @@ This policy outlines travel support available to Black Python Devs volunteers at
 To be eligible for volunteer travel support, you must:
 
 - Be a BPD Council member, a member of the Leadership Team, or be recommended by a BPD Council member or the Leadership Team.
-- Have written approval from the Regional Executor responsible for the event's location prior to incurring any travel expenses.
+- Have written approval from the Regional Executor responsible for the event region before incurring any travel expenses.
 
 ## Travel support limit
 
+The following travel support limit applies to all volunteers attending events:
+
 - The maximum travel support amount per volunteer per event is **$500 USD**.
-- This cap covers all travel-related expenses, including transportation, accommodation, and other approved costs.
+- This limit covers all travel-related expenses, including transportation, accommodation, and other approved costs.
 
 ## Approval process
 
