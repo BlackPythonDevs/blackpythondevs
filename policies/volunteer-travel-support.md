@@ -5,8 +5,6 @@ date-created: 20 Feb 2026
 last-updated: 20 Feb 2026
 ---
 
-## 1. Purpose
-
 This policy outlines travel support available to Black Python Devs volunteers attending conferences on behalf of the organization.
 
 ## Eligibility
