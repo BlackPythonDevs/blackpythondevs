@@ -9,7 +9,7 @@ last-updated: 20 Feb 2026
 
 This policy outlines travel support available to Black Python Devs volunteers attending conferences on behalf of the organization.
 
-## 2. Eligibility
+## Eligibility
 
 To be eligible for volunteer travel support, you must:
 
