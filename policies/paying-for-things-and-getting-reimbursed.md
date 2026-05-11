@@ -1,68 +1,77 @@
 # Paying for things and seeking reimbursement
 
-When spending money on behalf of Black Python Devs, ensure that all expenses are approved in writing and properly documented.
+All expenses made on behalf of Black Python Devs (BPD) must be approved in writing and documented before payment is processed.
 
-Also, send a quote for the expenses to the email address _treasury@blackpythondevs.com_, _leadership@blackpythondevs.com_, or the organizing team's email address.
+To start the approval process, send a quote for the expenses to one of the following:
+
+- treasury@blackpythondevs.com
+- leadership@blackpythondevs.com
+- the organizing team's email address
 
 ## Authorized purchase approvers
 
 The following roles have the authority to approve purchases:
 
-* Global Executor
-* Regional executor
+- Global Executor
+- Regional executor
 
 ## Authorized request types
 
-All purchases must be for the official business of Black Python Devs. Approved purchase examples include the following:
+All purchases must be for the official business of BPD. The following are examples of approved purchases:
 
-* approved event sponsorships
-* paying for a software subscription for Black Python Devs
-* paying for a meal for everyone in a Black Python Devs Event (requires pre-approval) **Meetup pizza, Thai, Ice cream**
-* swag, booth Materials
+- approved event sponsorships
+- a software subscription for Black Python Devs
+- a meal for everyone in a Black Python Devs Event (requires pre-approval)
+- swag, booth Materials
 
 ## How payment is handled
 
+BPD uses Ramp as its primary payment platform. The following sections describe each available payment method and when it applies.
 
-### WISE
+### Ramp
 
-You can request payment via Wise. This payment type is limited in all countries.
+When a payment is approved, the recipient receives a payment link via email and enters their own payment details directly in Ramp.
 
-Wise Payments require the following information:
+For sponsorship payments, the recipient must provide an invoice. For international sponsorship requests, BPD must also complete an Office of Foreign Assets Control (OFAC) check to confirm the payment complies with US law.
 
-* email address or username associated with the account
+If Ramp cannot process a payment due to country restrictions, BPD will work with the recipient to arrange an alternative. The following alternative payment methods may apply in that case:
+
+- PayPal
+- A trusted third party, who will enter their banking information into Ramp
 
 ### PayPal
 
-You can request payment via paypal. This is often the fastest way to recieve reimbursement but is limited in some countries.
-
-PayPal Payments require the following information:
-
-* email address or username connected to the PayPal account
-
+PayPal is an alternative when Ramp can't process payment to a recipient's country. To receive payment via PayPal, the recipient must provide the email address or username connected to their PayPal account
 
 ### Direct payment
 
-Direct payment is the preferred method. You can request an invoice to be paid by Black Python Devs. This is great when payment can be handled via wire transfer.
+Direct payment applies when the recipient can receive payment via wire transfer. BPD pays the invoice directly, so the recipient does not pay out of pocket.
 
-All wire transfers require the following information:
+For wire transfers, the recipient must provide the following:
 
-* account name
-* home address
-* address of their bank
-* SWIFT code of their bank (if applicable)
-* currency of their account
+- Account name
+- Home address
+- Bank address
+- SWIFT code (if applicable)
+- Account currency
 
 ### Member pays and is reimbursed
 
-Ensure you get approval before paying out of pocket.
+If you pay out of pocket on behalf of BPD, you must get written approval before making the purchase. Receipts are required for all reimbursements, and reimbursements will be sent to recipients as determined by BPD.
 
-If you've been approved for an out-of-pocket purchase, you need to request a copy of the reimbursement form from `leadership@blackpythondevs.com`. Fill out the form and send it to `leadership@blackpythondevs.com`. 
+To request reimbursement after approval, take the following steps:
 
+1. Request a reimbursement form from `leadership@blackpythondevs.com`.
+2. Fill out the form and attach your receipts.
+3. Return the completed form to `leadership@blackpythondevs.com`.
+
+After your form is reviewed, Ramp will send you a payment link to collect your payment details and process the reimbursement.
 
 ## CHANGELOG:
 
 18 Nov 2025: 
-* Removed references to treasurer role.
-* Moved form request and submission to only leadership@blackpythondevs.com.
-* Updated text around payment reimbursement.
-* Add PayPal and Wise instructions
+- Removed references to treasurer role.
+- Moved form request and submission to only leadership@blackpythondevs.com.
+- Updated text around payment reimbursement.
+- Added PayPal and Wise instructions.
+- Updated payment flow, include Ramp instructions, and remove Wise instructions.
