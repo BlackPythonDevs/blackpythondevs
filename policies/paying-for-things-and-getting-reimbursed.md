@@ -37,23 +37,10 @@ For sponsorship payments, the recipient must provide an invoice. For internation
 If Ramp cannot process a payment due to country restrictions, BPD will work with the recipient to arrange an alternative. The following alternative payment methods may apply in that case:
 
 - PayPal
+
+  > _**Note:** To receive payment via PayPal, the recipient must provide the email address or username connected to their PayPal account._
+
 - A trusted third party, who will enter their banking information into Ramp
-
-### PayPal
-
-PayPal is an alternative when Ramp can't process payment to a recipient's country. To receive payment via PayPal, the recipient must provide the email address or username connected to their PayPal account
-
-### Direct payment
-
-Direct payment applies when the recipient can receive payment via wire transfer. BPD pays the invoice directly, so the recipient does not pay out of pocket.
-
-For wire transfers, the recipient must provide the following:
-
-- Account name
-- Home address
-- Bank address
-- SWIFT code (if applicable)
-- Account currency
 
 ### Member pays and is reimbursed
 
@@ -61,7 +48,7 @@ If you pay out of pocket on behalf of BPD, you must get written approval before 
 
 To request reimbursement after approval, take the following steps:
 
-1. Request a reimbursement form from `leadership@blackpythondevs.com`.
+1. Request a reimbursement form from a BPD leadership representative.
 2. Fill out the form and attach your receipts.
 3. Return the completed form to `leadership@blackpythondevs.com`.
 
