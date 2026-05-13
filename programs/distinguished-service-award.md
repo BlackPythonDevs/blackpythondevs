@@ -33,3 +33,7 @@ The annual budget for this program is $700 USD, which covers the cash award, cer
 ## Payment process
 
 Award recipients coordinate with Black Python Devs leadership to receive their cash award. Payment can be processed through wire transfer, Wise, or PayPal, depending on the recipient's location and available options. See [Paying for things and seeking reimbursement](../../policies/paying-for-things-and-getting-reimbursed.md) for details on payment methods.
+
+## Previous Winners
+
+- 2025 - Damilola Oladele
